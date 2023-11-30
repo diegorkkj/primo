@@ -3,7 +3,7 @@
 <table>
 <tr>
     <td align="center">
-        <a href="https://open.vscode.dev/diegorkkj/marketplace">
+        <a href="https://github.com/TH4YSZ/Financas">
         <img src="https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg" alt="Open in Visual Studio Code">
         </a>
     </td>
@@ -44,6 +44,23 @@ O My Piggy Bank foi desenvolvido para oferecer aos usuários um ambiente dedicad
     
     Uma biblioteca para análise de dados em Python.
 
+## Documentação do projeto
+<div align="center">
+    <table>
+    <tr>
+        <td align="center" >
+        <a href="https://www.notion.so/Documenta-o-My-Piggy-Bank-665545490bdf460184521247eeb4e49f?pvs=4">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="115px;" alt="Documentação"/><br>
+            <sub>
+            <b>Diego</b>
+            </sub>
+        </a>
+        </td>
+    </tr>
+    </table>
+</div>
+
+
 ## Autores
 
 <div align="center">
@@ -53,7 +70,7 @@ O My Piggy Bank foi desenvolvido para oferecer aos usuários um ambiente dedicad
         <a href="https://github.com/diegorkkj">
             <img src="https://avatars.githubusercontent.com/diegorkkj" width="115px;" alt="Foto_Diego"/><br>
             <sub>
-            <b>Diego Otaviano</b>
+            <b>Diego</b>
             </sub>
         </a>
         </td>
